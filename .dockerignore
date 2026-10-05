@@ -1,0 +1,13 @@
+.git
+.github
+.fleet
+.fleet-deploy.log
+*.log
+.env
+.env.*
+target
+build
+.gradle
+.idea
+.vscode
+HELP.md
